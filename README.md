@@ -11,6 +11,8 @@ This project demonstrates the entire process of committing code from the develop
 - **Services**: Azure DevOps, Azure Repos, Azure Pipelines, Azure Databricks
 
 ---
+## ![Architecture Diagram](https://github.com/Tramnddle/Build-and-deploy-CICD-data-pipeline-using-Azure-DevOps/blob/1a089d66f254967753c6f11df5832f05a36aa832/Architecture-CICD.png)
+---
 
 ## Approach
 
